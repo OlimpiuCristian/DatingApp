@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DatingApp-SPA",
+    "\\DatingApp-SPA\\src",
+    "\\DatingApp-SPA\\src\\app",
+    "\\DatingApp-SPA\\src\\app\\home",
+    "\\DatingApp-SPA\\src\\app\\lists",
+    "\\DatingApp.API",
+    "\\DatingApp.API\\Models",
+    "\\DatingApp.API\\Properties"
+  ],
+  "SelectedNode": "\\DatingApp-SPA\\src\\app\\lists\\lists.component.ts",
+  "PreviewInSolutionExplorer": false
+}
